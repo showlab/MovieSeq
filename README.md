@@ -1,9 +1,8 @@
-# MovieSeq
+# MovieSeq (ECCV'24)
 
 ![overview](./assets/teaser.png)
 
-
-## Movie Datasets
+## 🎬 Movie Datasets
 Our model uses CLIP vision features as inputs, so the original RGB videos are not required. You can download our provided features in this google drive.
 
 If you need the original videos for visualization, please note that some resources may have expired over time. In such cases, please contact the author for assistance.
