@@ -1,11 +1,7 @@
 # MovieSeq
-## Environments
-```
-conda create --name movieseq python=3.10
-conda activate movieseq
-conda install openjdk=8
-pip install -r requirements.txt
-```
+
+![overview](./assets/teaser.png)
+
 
 ## Movie Datasets
 Our model uses CLIP vision features as inputs, so the original RGB videos are not required. You can download our provided features in this google drive.
@@ -92,9 +88,9 @@ features
 ├── tvc
 │   └── clip_b32
 └── movieqa
-│   └── clip_b32
-│         ├── tt0074285
-│         ├── ...
-│         └── tt2310332
+    └── clip_b32
+          ├── tt0074285
+          ├── ...
+          └── tt2310332
 ```
 
