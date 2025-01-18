@@ -1,4 +1,5 @@
 # MovieSeq (ECCV'24)
+[arXiv](https://arxiv.org/abs/2407.21757)
 
 ![overview](./assets/teaser.png)
 
