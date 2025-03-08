@@ -1,13 +1,15 @@
 # MovieSeq (ECCV'24)
-[arXiv](https://arxiv.org/abs/2407.21757)
+
+> **[Learning Video Context as Interleaved Multimodal Sequences](https://arxiv.org/abs/2407.21757)**<br>
+> Kevin Qinghong Lin, Pengchuan Zhang, Difei Gao, Xide Xia, Joya Chen, Ziteng Gao, Jinheng Xie, Xuhong Xiao, Mike Zheng Shou
 
 ![overview](./assets/teaser.png)
 
-MovieSeq is a method designed to enhance Large Multimodal Models for improved **video in-context learning using interleaved multimodal sequences** (e.g., character photo, human dialogues, etc). 
+**TL;DR:** MovieSeq aim to enhance Large Multimodal Models for improved **Video In-Context Learning using Interleaved Multimodal Sequences** (e.g., character photo, human dialogues, etc). 
 
-> Recognize the baseline used in the paper LLama2 is quite old, we have developed **MovieSeq-4o** -- lightweight practical code that can be easily integrated into existing LMMs (e.g., GPT-4o) for easy usage.
+_NOTE: Recognize the baseline used in the paper LLama2 is quite old, we have developed **MovieSeq-4o** -- lightweight practical code that can be easily integrated into existing LMMs (e.g., GPT-4o) for easy usage._
 
-**MovieSeq-4o** connects Whisper, Character images, and Frames to build a good video context, it can easily integrate into other VLM or APIs (such as Gemini, Claude, etc) on your own videos!
+**MovieSeq-4o** connects Whisper, Character images, and Video Frames to build a good video context, it can easily integrate into other VLM or APIs (such as Gemini, Claude, etc) on your own videos!
 
 ## Environments
 ```
