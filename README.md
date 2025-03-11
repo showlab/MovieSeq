@@ -1,7 +1,7 @@
 # MovieSeq (ECCV'24)
 
 > **[Learning Video Context as Interleaved Multimodal Sequences](https://arxiv.org/abs/2407.21757)**<br>
-> Kevin Qinghong Lin, Pengchuan Zhang, Difei Gao, Xide Xia, Joya Chen, Ziteng Gao, Jinheng Xie, Xuhong Xiao, Mike Zheng Shou
+> [Kevin Qinghong Lin](https://qhlin.me/), [Pengchuan Zhang](https://pzzhang.github.io/pzzhang/), Difei Gao, Xide Xia, Joya Chen, Ziteng Gao, Jinheng Xie, Xuhong Xiao, [Mike Zheng Shou](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl)
 
 ![overview](./assets/teaser.png)
 
